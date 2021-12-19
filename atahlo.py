@@ -33,11 +33,3 @@ with zp.ZipFile('TLauncher-2.831.zip', 'r') as r:
     r.extract('TLauncher-2.831.jar')
 
 os.remove('TLauncher-2.831.zip')
-
-
-
-
-
-
-
-
